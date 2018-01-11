@@ -1,2 +1,9 @@
-# Hello-World
-My first repository on GitHub.
+Hello World program in C++
+
+#include<iostream>
+using namespace std;
+int main()
+{
+  cout<<"Hello World"<<endl;
+  return 0;
+}
